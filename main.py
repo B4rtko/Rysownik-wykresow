@@ -1,0 +1,6 @@
+from gui import PlotGui
+
+if __name__=="__main__":
+    PlotGui()
+
+# NIE MA WIĘKSZEGO ZNACZENIA CZY PROGRAM ODPALAMY Z EDYTORA CZY Z KONSOLI, ORAZ CZY PODAJEMY ARGUMENTY CZY NIE
